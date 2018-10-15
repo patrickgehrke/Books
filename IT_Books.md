@@ -39,8 +39,6 @@
    * Forbidden Code
    * Hacking Exposed : Network Security Secrets and Solutions
    * Hacking Exposed : Wireless
-   * Reversing: Secrets of Reverse Engineering
-   * Wireshark 101
    * The Shellcoder's Handbook
 
   ## Miscellaneous
@@ -72,3 +70,9 @@
    * Working Effectively with Legacy Code
    * The Mythical Man-Month. Essays on Software Engineering
    * Object-Oriented Software Construction
+
+  ## IT SEC
+   * Poc or GTFO
+   * Practical Malware Analysis
+   * Reversing: Secrets of Reverse Engineering
+   * The IDA Pro Book

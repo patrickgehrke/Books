@@ -61,9 +61,15 @@
   ## C#
    * Functional Concurrency in .NET: Modern patterns of concurrent and parallel programming
    * Design It!: From Programmer to Software Architect
+   * C# in Depth, Fourth Edition
 
   ## SQL
    * T-SQL Querying
+   * Microsoft SQL Server 2012 Internals
+   * SQL Server 2008 Query Performance Tuning Distilled
+   * SQL Server MVP Deep Dives 1/2
+   * Troubleshooting SQL Server - A Guide for the Accidental DBA
+   * Inside the SQL Server Query Optimizer
 
   ## Miscellaneous
    * The Pragmatic Programmer. From Journeyman to Master

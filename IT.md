@@ -82,3 +82,8 @@
    * Practical Malware Analysis
    * Reversing: Secrets of Reverse Engineering
    * The IDA Pro Book
+
+ ## Compiler Stuff
+   * Engineering a Compiler
+   * Language Implementation Patterns
+   * Compilers: Principles, Techniques, and Tools (dragon book :))

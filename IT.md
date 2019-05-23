@@ -54,9 +54,10 @@
    * Expert C Programming: Deep C Secrets
    * Hacker's Delight
 
-  ## WPF
+  ## WPF / UI / UX
    * Practical WPF Charts and Graphics
    * XAML Unleashed
+   * Praxisbuch Usability und UX
 
   ## C#
    * Functional Concurrency in .NET: Modern patterns of concurrent and parallel programming
@@ -76,6 +77,7 @@
    * Working Effectively with Legacy Code
    * The Mythical Man-Month. Essays on Software Engineering
    * Object-Oriented Software Construction
+   * Theoretische Informatik: Eine umfassende Einführung
 
   ## IT SEC
    * Poc or GTFO
@@ -86,4 +88,4 @@
  ## Compiler Stuff
    * Engineering a Compiler
    * Language Implementation Patterns
-   * Compilers: Principles, Techniques, and Tools (dragon book :))
+   * Compiler Design in C

@@ -17,10 +17,11 @@
    * C# In Depth
    * Writing High Performance .NET Code
 
-  ## WPF
+  ## WPF / UI / UX
    * WPF Das Umfassende Handbuch
    * WPF Control Development Unleashed
    * WPF 4.5 Unleashed
+   * Praxisbuch Usability und UX
 
   ## SQL
    * T-SQL Fundamentals
@@ -57,7 +58,6 @@
   ## WPF / UI / UX
    * Practical WPF Charts and Graphics
    * XAML Unleashed
-   * Praxisbuch Usability und UX
 
   ## C#
    * Functional Concurrency in .NET: Modern patterns of concurrent and parallel programming
